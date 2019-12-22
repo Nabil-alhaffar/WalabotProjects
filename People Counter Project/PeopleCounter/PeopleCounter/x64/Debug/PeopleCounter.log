@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  PeopleCounter.cpp
+  C:\Users\240028730\OneDrive - GE Appliances\PeopleCounter\PeopleCounter\PeopleCounter.cpp(112) : warning C4715: 'PeopleCounter::GetPlacement': not all control paths return a value
+  PeopleCounter.vcxproj -> C:\Users\240028730\OneDrive - GE Appliances\PeopleCounter\x64\Debug\PeopleCounter.exe

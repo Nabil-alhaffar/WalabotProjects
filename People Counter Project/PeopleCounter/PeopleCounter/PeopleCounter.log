@@ -1,0 +1,23 @@
+﻿  PeopleCounter.cpp
+c:\users\240028730\source\repos\peoplecounter\peoplecounter\peoplecounter.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\240028730\source\repos\peoplecounter\peoplecounter\peoplecounter.cpp(91): warning C4715: 'PeopleCounter::GetPlacement': not all control paths return a value
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_Initialize referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_Clean referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_GetErrorString referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_ConnectAny referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_Disconnect referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_Start referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_Stop referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_Trigger referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_SetProfile referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_GetStatus referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_StartCalibration referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_SetThreshold referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_SetArenaR referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_SetArenaTheta referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_SetArenaPhi referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_GetTrackerTargets referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+PeopleCounter.obj : error LNK2019: unresolved external symbol __imp__Walabot_SetDynamicImageFilter referenced in function "void __cdecl PeopleCounterApp(void)" (?PeopleCounterApp@@YAXXZ)
+C:\Users\240028730\source\repos\PeopleCounter\PeopleCounter\Debug\WalabotAPI.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+Debug\WalabotAPI.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\240028730\source\repos\PeopleCounter\Debug\PeopleCounter.exe : fatal error LNK1120: 17 unresolved externals

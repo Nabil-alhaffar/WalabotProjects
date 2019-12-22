@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PeopleCounter", "PeopleCounter\PeopleCounter.vcxproj", "{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{53C17B02-CAA5-4649-9A97-8EB85358F7D8}"
+	ProjectSection(SolutionItems) = preProject
+		BreathingLights\curl-7.64.0_2-win64-mingw\curl-7.64.0-win64-mingw\include\curl\curl.h = BreathingLights\curl-7.64.0_2-win64-mingw\curl-7.64.0-win64-mingw\include\curl\curl.h
+		BreathingLights\libcurl.lib = BreathingLights\libcurl.lib
+		WalabotAPI.dll = WalabotAPI.dll
+		PeopleCounter\WalabotAPI.h = PeopleCounter\WalabotAPI.h
+		PeopleCounter\Debug\WalabotAPI.lib = PeopleCounter\Debug\WalabotAPI.lib
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FallDetector", "FallDetector\FallDetector.vcxproj", "{7D372187-8179-44C0-9BAA-2F683ECF57D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}.Debug|x64.ActiveCfg = Debug|x64
+		{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}.Debug|x64.Build.0 = Debug|x64
+		{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}.Debug|x86.Build.0 = Debug|Win32
+		{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}.Release|x64.ActiveCfg = Release|x64
+		{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}.Release|x64.Build.0 = Release|x64
+		{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}.Release|x86.ActiveCfg = Release|Win32
+		{9301E5A0-F84C-4BD3-BC4F-C52BEADF93A4}.Release|x86.Build.0 = Release|Win32
+		{7D372187-8179-44C0-9BAA-2F683ECF57D7}.Debug|x64.ActiveCfg = Debug|x64
+		{7D372187-8179-44C0-9BAA-2F683ECF57D7}.Debug|x64.Build.0 = Debug|x64
+		{7D372187-8179-44C0-9BAA-2F683ECF57D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D372187-8179-44C0-9BAA-2F683ECF57D7}.Debug|x86.Build.0 = Debug|Win32
+		{7D372187-8179-44C0-9BAA-2F683ECF57D7}.Release|x64.ActiveCfg = Release|x64
+		{7D372187-8179-44C0-9BAA-2F683ECF57D7}.Release|x64.Build.0 = Release|x64
+		{7D372187-8179-44C0-9BAA-2F683ECF57D7}.Release|x86.ActiveCfg = Release|Win32
+		{7D372187-8179-44C0-9BAA-2F683ECF57D7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DD0DF4-6FD9-4EE9-A470-6A6D7F247E31}
+	EndGlobalSection
+EndGlobal

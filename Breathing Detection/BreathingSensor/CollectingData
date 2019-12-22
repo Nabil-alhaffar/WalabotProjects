@@ -1,0 +1,14 @@
+import numpy as np
+
+result = int(input("result: "))
+
+ar = np.loadtxt("test.csv", delimiter=",") ##open existing csv
+
+
+newar = [0,0,0,0,0,0,0] ##NEW ROW OF DATA
+
+newar.append(result) ##append result to new row of data
+
+ar = np.vstack([ar, newar]) ##APPEND NEW ROW to data file
+
+np.savetxt("/Users/240028730/Desktop/test.csv", ar, delimiter=',', fmt="%10.5f") ## SAVE

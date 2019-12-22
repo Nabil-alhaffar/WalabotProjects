@@ -1,0 +1,4 @@
+﻿  FallDetector.cpp
+c:\users\240028730\source\repos\peoplecounter\falldetector\falldetector.cpp(47): warning C4101: 'targetIdx': unreferenced local variable
+c:\users\240028730\source\repos\peoplecounter\falldetector\falldetector.cpp(132): warning C4715: 'FallDetector::GetPlacement': not all control paths return a value
+  FallDetector.vcxproj -> C:\Users\240028730\source\repos\PeopleCounter\x64\Debug\FallDetector.exe
