@@ -1,5 +1,5 @@
 # WalabotProjects
-This are projects that are built using the Walabot Sensor 
+This are projects that are built using the Walabot Sensor. 
 There are three different projects in this repository: 
 A) Breathing Detection: This is a python project that uses a radio frequency device called walabot, in addition to the machine learning algorithm Random Forrests,
   in order to detect breathing action and record data. A hue light is being used as an indicator,  being triggered when there is breathing action.
