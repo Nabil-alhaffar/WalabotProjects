@@ -14,7 +14,7 @@ A) Breathing Detection: This is a python project that uses a radio frequency dev
   2- Make sure the Walabot API is installed and placed in the correct directory as coded in the "Predictions.py" file.
   3- Update Hue light information in the code if needed
   4- Connect your Walabot Device through USB
-  5- Hang your walabot device to an adjacent wall and secure it to where its stationary, with the Z+ access facing towards the breathing person
+  5- Hang your walabot device to an adjacent wall and secure it to where its stationary, with the Z+ axis facing towards the breathing person
   6- Run the "Predictions.py" and the breathing predictions will start occuring.
 ------------------------------------------------------------------------------
 B) Fall Detection: This is a python project that uses a radio frequency device by the name Walabot in order to detect emergency falls and alert a care giver
